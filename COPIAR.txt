@@ -1,0 +1,27 @@
+CREATE TABLE [dbo].[Exemplo]
+(--chave primaria auto encrement
+[Id] INT IDENTITY (1,1) NOT NULL PRIMARY KEY,
+[Nome] NVARCHAR(MAX),
+[Sobrenome] NVARCHAR(MAX)
+);
+
+INSERT INTO Exemplo (Nome, Sobrenome) VALUES ('Cássio', 'Capucho');
+INSERT INTO Exemplo (Nome, Sobrenome) VALUES ('João', 'Silva');
+INSERT INTO Exemplo (Nome, Sobrenome) VALUES ('Pedro', 'Souza');
+
+--SELECT * FROM Exemplo;
+ 
+/*************************************/
+
+CREATE TABLE [dbo].[Contato]
+(--chave primaria auto encrement
+[Id] INT IDENTITY (1,1) NOT NULL PRIMARY KEY,
+[Nome] NVARCHAR(MAX),
+[Telefone] NVARCHAR(MAX)
+);
+
+INSERT INTO Contato (Nome, Telefone) VALUES ('Cássio', '27999885463');
+INSERT INTO Contato (Nome, Telefone) VALUES ('João', '27999776523');
+INSERT INTO Contato (Nome, Telefone) VALUES ('Pedro', '27999662541');
+
+--SELECT * FROM Contato;

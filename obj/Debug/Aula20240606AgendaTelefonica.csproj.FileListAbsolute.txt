@@ -1,0 +1,33 @@
+C:\Users\alunodev02\source\repos\Aula20240606AgendaTelefonica\bin\Debug\Aula20240606AgendaTelefonica.exe.config
+C:\Users\alunodev02\source\repos\Aula20240606AgendaTelefonica\bin\Debug\Aula20240606AgendaTelefonica.exe
+C:\Users\alunodev02\source\repos\Aula20240606AgendaTelefonica\bin\Debug\Aula20240606AgendaTelefonica.pdb
+C:\Users\alunodev02\source\repos\Aula20240606AgendaTelefonica\obj\Debug\Aula20240606AgendaTelefonica.csproj.AssemblyReference.cache
+C:\Users\alunodev02\source\repos\Aula20240606AgendaTelefonica\obj\Debug\Aula20240606AgendaTelefonica.csproj.SuggestedBindingRedirects.cache
+C:\Users\alunodev02\source\repos\Aula20240606AgendaTelefonica\obj\Debug\Aula20240606AgendaTelefonica.Form1.resources
+C:\Users\alunodev02\source\repos\Aula20240606AgendaTelefonica\obj\Debug\Aula20240606AgendaTelefonica.Properties.Resources.resources
+C:\Users\alunodev02\source\repos\Aula20240606AgendaTelefonica\obj\Debug\Aula20240606AgendaTelefonica.csproj.GenerateResource.cache
+C:\Users\alunodev02\source\repos\Aula20240606AgendaTelefonica\obj\Debug\Aula20240606AgendaTelefonica.csproj.CoreCompileInputs.cache
+C:\Users\alunodev02\source\repos\Aula20240606AgendaTelefonica\obj\Debug\Aula20240606AgendaTelefonica.exe
+C:\Users\alunodev02\source\repos\Aula20240606AgendaTelefonica\obj\Debug\Aula20240606AgendaTelefonica.pdb
+Z:\POOII CC4M Projetos\Aula20240606AgendaTelefonica\bin\Debug\Aula20240606AgendaTelefonica.exe.config
+Z:\POOII CC4M Projetos\Aula20240606AgendaTelefonica\bin\Debug\Aula20240606AgendaTelefonica.exe
+Z:\POOII CC4M Projetos\Aula20240606AgendaTelefonica\bin\Debug\Aula20240606AgendaTelefonica.pdb
+Z:\POOII CC4M Projetos\Aula20240606AgendaTelefonica\obj\Debug\Aula20240606AgendaTelefonica.csproj.AssemblyReference.cache
+Z:\POOII CC4M Projetos\Aula20240606AgendaTelefonica\obj\Debug\Aula20240606AgendaTelefonica.csproj.SuggestedBindingRedirects.cache
+Z:\POOII CC4M Projetos\Aula20240606AgendaTelefonica\obj\Debug\Aula20240606AgendaTelefonica.Form1.resources
+Z:\POOII CC4M Projetos\Aula20240606AgendaTelefonica\obj\Debug\Aula20240606AgendaTelefonica.Properties.Resources.resources
+Z:\POOII CC4M Projetos\Aula20240606AgendaTelefonica\obj\Debug\Aula20240606AgendaTelefonica.csproj.GenerateResource.cache
+Z:\POOII CC4M Projetos\Aula20240606AgendaTelefonica\obj\Debug\Aula20240606AgendaTelefonica.csproj.CoreCompileInputs.cache
+Z:\POOII CC4M Projetos\Aula20240606AgendaTelefonica\obj\Debug\Aula20240606AgendaTelefonica.exe
+Z:\POOII CC4M Projetos\Aula20240606AgendaTelefonica\obj\Debug\Aula20240606AgendaTelefonica.pdb
+C:\DevC\Aula20240606AgendaTelefonica\bin\Debug\Aula20240606AgendaTelefonica.exe.config
+C:\DevC\Aula20240606AgendaTelefonica\bin\Debug\Aula20240606AgendaTelefonica.exe
+C:\DevC\Aula20240606AgendaTelefonica\bin\Debug\Aula20240606AgendaTelefonica.pdb
+C:\DevC\Aula20240606AgendaTelefonica\obj\Debug\Aula20240606AgendaTelefonica.csproj.AssemblyReference.cache
+C:\DevC\Aula20240606AgendaTelefonica\obj\Debug\Aula20240606AgendaTelefonica.csproj.SuggestedBindingRedirects.cache
+C:\DevC\Aula20240606AgendaTelefonica\obj\Debug\Aula20240606AgendaTelefonica.Form1.resources
+C:\DevC\Aula20240606AgendaTelefonica\obj\Debug\Aula20240606AgendaTelefonica.Properties.Resources.resources
+C:\DevC\Aula20240606AgendaTelefonica\obj\Debug\Aula20240606AgendaTelefonica.csproj.GenerateResource.cache
+C:\DevC\Aula20240606AgendaTelefonica\obj\Debug\Aula20240606AgendaTelefonica.csproj.CoreCompileInputs.cache
+C:\DevC\Aula20240606AgendaTelefonica\obj\Debug\Aula20240606AgendaTelefonica.exe
+C:\DevC\Aula20240606AgendaTelefonica\obj\Debug\Aula20240606AgendaTelefonica.pdb
